@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bestfood</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="menu_gallery" translatable="false">Gallerie</string>
+    <string name="menu_home" translatable="false">Acceuil</string>
+    <string name="menu_send" translatable="false">Envoyé</string>
+    <string name="menu_share" translatable="false">Partager</string>
+    <string name="navigation_drawer_close" translatable="false">ouvrir</string>
+    <string name="price" translatable="false">Prix:</string>
+    <string name="number" translatable="false">" Nombre:"</string>
+    <string name="salad" translatable="false">Salade</string>
+    <string name="pizza" translatable="false">Pizza</string>
+    <string name="password" translatable="false">Mot de passe</string>
+    <string name="registerbtn" translatable="false">Registre</string>
+    <string name="seafood" translatable="false">" Fruit de mer"</string>
+    <string name="reservation" translatable="false">" Réservation"</string>
+    <string name="monday" translatable="false">Lundi</string>
+    <string name="username" translatable="false">"Nom d'utilisateur "</string>
+    <string name="wednesday" translatable="false">Mercredi</string>
+    <string name="openhours" translatable="false">" Heures d'ouverture"</string>
+    <string name="tuesday" translatable="false">Mardi</string>
+    <string name="thursday" translatable="false">" Jeudi"</string>
+    <string name="home" translatable="false">Acceuil</string>
+    <string name="location" translatable="false">" Emplacement"</string>
+    <string name="login" translatable="false">" S'identifier"</string>
+    <string name="friday" translatable="false">" Vendredi"</string>
+    <string name="getintouch" translatable="false">" Entrer en contact"</string>
+    <string name="exit" translatable="false">Sortie</string>
+    <string name="dessert" translatable="false">Dessert</string>
+    <string name="contactus" translatable="false">" Contactez nous"</string>
+    <string name="categories" translatable="false">Categories</string>
+    <string name="callus" translatable="false">" Appelez-nous"</string>
+    <string name="aboutus" translatable="false">A propos de nous</string>
+</resources>

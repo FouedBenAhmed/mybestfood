@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731751522461",
+    "firebase_url": "https://bestfood-23e3e.firebaseio.com",
+    "project_id": "bestfood-23e3e",
+    "storage_bucket": "bestfood-23e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731751522461:android:e7ae6c6ceca3eae9273474",
+        "android_client_info": {
+          "package_name": "com.projet.bestfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731751522461-j32sncbe0ogirt649ulaeliaagejfvb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projet.bestfood",
+            "certificate_hash": "cf201b430b1c58a255132ab110c5bf4e3606f02d"
+          }
+        },
+        {
+          "client_id": "731751522461-0loqqgn4s8m098jsm58ttps69v9b5loc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVb9VB6nZx06ArWpDeO5ONQeCstD8xH4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731751522461-0loqqgn4s8m098jsm58ttps69v9b5loc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

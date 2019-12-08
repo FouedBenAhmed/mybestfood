@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/aa"
+            android:title="@string/home" />
+
+        <item android:title="@string/categories"
+            android:icon="@drawable/aaaa">
+            <menu>
+                <item
+                    android:id="@+id/nav_pizza"
+                    android:icon="@drawable/aaaa"
+                    android:title="@string/pizza" />
+                <item
+                    android:id="@+id/nav_sea_food"
+                    android:icon="@drawable/aaaa"
+                    android:title="@string/seafood" />
+                <item
+                    android:id="@+id/nav_salad"
+                    android:icon="@drawable/aaaa"
+                    android:title="@string/salad" />
+                <item
+                    android:id="@+id/nav_dessert"
+                    android:icon="@drawable/aaaa"
+                    android:title="@string/dessert" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/c"
+            android:title="@string/aboutus">
+            <menu>
+                <item
+                    android:id="@+id/nav_contactus"
+                    android:icon="@drawable/c"
+                    android:title="@string/contactus" />
+                <item
+                    android:id="@+id/nav_location"
+                    android:icon="@drawable/aaaaa"
+                    android:title="@string/location" />
+            </menu>
+        </item>
+
+
+    </group>
+
+
+
+</menu>
