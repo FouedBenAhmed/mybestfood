@@ -83,7 +83,17 @@
         app:layout_constraintStart_toStartOf="@+id/photo1"
         app:layout_constraintTop_toBottomOf="@+id/photo2"
         app:srcCompat="@drawable/na" />
-
+    <ImageView
+        android:id="@+id/cle"
+        android:layout_width="23dp"
+        android:layout_height="47dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/password"
+        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/na"
+        app:layout_constraintVertical_bias="0.101"
+        app:srcCompat="@drawable/cle" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
